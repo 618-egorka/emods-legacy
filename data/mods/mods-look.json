@@ -9,20 +9,112 @@
 	},
 	"mods": [
 		{
-			"name": "EMP_mod1_v1.jar",
-			"link": "https://BMP-mod1-v1.com"
+			"name": "EMP_Fabric--1-0-0.jar",
+			"link": "https://fabricmc.net/use/installer"
 		},
 		{
-			"name": "EMP_mod2_v1.jar",
-			"link": "https://BMP-mod2-v1.com"
+			"name": "EMP_Fabric_API--1-0-0",
+			"link": "ttps://www.curseforge.com/minecraft/mc-mods/fabric-api"
 		},
 		{
-			"name": "EMP_mod3_v1.jar",
-			"link": "https://BMP-mod3-v1.com"
+			"name": "EMP_Creativecore--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/creativecore"
 		},
 		{
-			"name": "EMP_mod4_v1.jar",
-			"link": "https://BMP-mod4-v1.com"
+			"name": "EMP_Cloth_config--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/cloth-config"
+		},
+		{
+			"name": "EMP_Phosphor--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/phosphor"
+		},
+		{
+			"name": "EMP_Sodium--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/sodium"
+		},
+		{
+			"name": "EMP_Sodium_extra--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/sodium-extra"
+		},
+		{
+			"name": "EMP_Irisshaders--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/irisshaders"
+		},
+		{
+			"name": "EMP_Create--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/create-fabric"
+		},
+		{
+			"name": "EMP_Twilight_Forest--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest"
+		},
+		{
+			"name": "EMP_Farmers_delight--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric"
+		},
+		{
+			"name": "EMP_farmers-respite--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/farmers-respite"
+		},
+		{
+			"name": "EMP_Falling_leaves--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric"
+		},
+		{
+			"name": "EMP_Dashloade--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/dashloader"
+		},
+		{
+			"name": "EMP_Lazydfu--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/lazydfu"
+		},
+		{
+			"name": "EMP_Fast_furnace--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric"
+		},
+		{
+			"name": "EMP_Emotecraft--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/emotecraft"
+		},
+		{
+			"name": "EMP_Enhanced_block_entities--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities"
+		},
+		{
+			"name": "EMP_Plasmo_voice--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/plasmo-voice"
+		},
+		{
+			"name": "EMP_Ambientsounds--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/ambientsounds"
+		},
+		{
+			"name": "EMP_Chat_up--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/chat-up"
+		},
+		{
+			"name": "EMP_First_person_model--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/first-person-model"
+		},
+		{
+			"name": "EMP_Presence_footsteps--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/presence-footsteps"
+		},
+		{
+			"name": "EMP_Skin_layers_3d--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d"
+		},
+		{
+			"name": "EMP_Smooth_swapping--1-0-0.jar",
+			"link": "(https://www.curseforge.com/minecraft/mc-mods/smooth-swapping"
+		},
+		{
+			"name": "EMP_Sound_physics_remastered--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered"
+		},
+		{
+			"name": "EMP_Visuality--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/visuality"
 		}
 	]
 }
