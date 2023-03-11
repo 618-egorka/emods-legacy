@@ -29,11 +29,11 @@ Windows может посчитать файл установки вредоно
 | [✦ Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)| Оптимизация игры (аналог OptiFine)|
 | [✦ Sodium extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)| Улучшение настроек Sodium|
 | [Iris shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)| Обеспечивает поддержику шейдеров для Sodium|
-| [Falling leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)| Косметический мод, добавляет частицы листвы|
 | [✦ Сreate](https://www.curseforge.com/minecraft/mc-mods/create-fabric)| Глобальный индустриальный мод добавляющий множество уникальных механик|
 | [✦ Twilight forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)| Глобальный магический мод, добавляющий новое измерение|
 | [✦ Farmers delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric)| Глобальный мод, разнообразит приготовление еды|
 | [✦ Farmers respite](https://www.curseforge.com/minecraft/mc-mods/farmers-respite)| Аддон к farmers-delight, добавляющий приготовление чая, кофе и других напитков |
+| [Falling leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)| Косметический мод, добавляет частицы листвы|
 | [Dash loader](https://www.curseforge.com/minecraft/mc-mods/dashloader)| Оптимизация, кеширует файлы игры, ускоряя запуск в 2 раза |
 | [Lazydfu](https://www.curseforge.com/minecraft/mc-mods/lazydfu)| Оптимизация, также ускоряет запуск игры в 2 раза |
 | [Fastfurnace](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric)| Оптимизация, ускоряет печки за счёт кеширования последнего использованного рецепта|
