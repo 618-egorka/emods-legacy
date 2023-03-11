@@ -27,6 +27,7 @@ Windows может посчитать файл установки вредоно
 | [✦ Cloth config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)| API необходимое для запуска модов|
 | [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor)| Оптимизация игры|
 | [✦ Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)| Оптимизация игры (аналог OptiFine)|
+| [✦ Sodium extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)| Улучшение настроек Sodium|
 | [Iris shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)| Обеспечивает поддержику шейдеров для Sodium|
 | [Falling leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)| Косметический мод, добавляет частицы листвы|
 | [✦ Сreate](https://www.curseforge.com/minecraft/mc-mods/create-fabric)| Глобальный индустриальный мод добавляющий множество уникальных механик|
