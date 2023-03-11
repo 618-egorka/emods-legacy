@@ -1,0 +1,28 @@
+{
+	"modsPackage": {
+		"packageVersion": "1.0.0",
+		"modsCoreVerison": "Fabric 1.19.2",
+
+		"about": "Это скрытый файл, автоматически создаваемый программой установки сборки модов от Егорки",
+		"git": "https://github.com/618-egorka/egorka-mods",
+		"author": "t.me/ef_618"
+	},
+	"mods": [
+		{
+			"name": "EMP_mod1_v1.jar",
+			"link": "https://BMP-mod1-v1.com"
+		},
+		{
+			"name": "EMP_mod2_v1.jar",
+			"link": "https://BMP-mod2-v1.com"
+		},
+		{
+			"name": "EMP_mod3_v1.jar",
+			"link": "https://BMP-mod3-v1.com"
+		},
+		{
+			"name": "EMP_mod4_v1.jar",
+			"link": "https://BMP-mod4-v1.com"
+		}
+	]
+}

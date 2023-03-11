@@ -1,0 +1,30 @@
+{
+  "name": "egorka-mods-installer",
+  "version": "1.0.0",
+  "description": "Установщик модов от Егорки",
+  "main": "installer.js",
+  "bin": "installer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "pkg": {
+    "assets": "data/**/*.jar",
+    "scripts": "data/mods/mods-look.json",
+    "targets": [
+      "node18-macos-arm64",
+      "node18-macos-x64",
+      "node18-win-arm64",
+      "node18-win-x64"
+    ],
+    "outputPath": "dist",
+		"icon": "favicon.ico"
+  },
+	"window": {
+		"icon": "favicon.ico"
+	},
+  "author": "t.me/ef_618",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
