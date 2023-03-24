@@ -5,25 +5,39 @@
   "main": "installer.js",
   "bin": "installer.js",
   "scripts": {
+		"build": "pkg --compress Gzip .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "pkg": {
     "assets": "data/**/*.jar",
-    "scripts": "data/mods/mods-look.json",
+    "scripts": [
+			"data/mods/mods-look.json",
+			"config.json"
+		],
     "targets": [
       "node18-macos-arm64",
       "node18-macos-x64",
       "node18-win-arm64",
       "node18-win-x64"
     ],
-    "outputPath": "dist",
-		"icon": "favicon.ico"
+    "outputPath": "dist"
   },
-	"window": {
-		"icon": "favicon.ico"
+	"repository": {
+		"type": "git",
+		"url": "git+618-egorka/eMods.git"
 	},
-  "author": "t.me/ef_618",
-  "license": "MIT",
+	"keywords": [
+		"minecraft",
+		"mods",
+		"mods installer",
+		"installer"
+	],
+	"author": "t.me/ef_618",
+	"license": "EPL-2.0",
+	"bugs": {
+		"url": "https://github.com/618-egorka/eMods/issues"
+	},
+	"homepage": "https://github.com/618-egorka/eMods#readme",
   "dependencies": {
     "colors": "^1.4.0"
   }
