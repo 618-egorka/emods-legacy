@@ -1,0 +1,55 @@
+{
+	"modNamePrefix": "EMP_",
+	"messages":{
+		"Loading":{
+			"body":[
+				"                                    ",
+				"           Установка сборки..       ",
+				"                                    "
+			],
+			"description": null,
+			"type": "INFO"
+		},
+		"installCompleted":{
+			"body":[
+				"                                    ",
+				"         Cборка установлена         ",
+				"        (можно закрыть окно)        ",
+				"                                    "
+			],
+			"description": null,
+			"type": "OK"
+		},
+		"minecraftModsFolderDosentExist":{
+			"body":[
+				"                                    ",
+				"        Не найдена папка mods       ",
+				"         (можно закрыть окно)       ",
+				"                                    "
+			],
+			"description": "Чтбы исправить это – создайте папку mods в корневой папке minecraft",
+			"type": "ERROR"
+		},
+		"minecraftOldModsFolderDosentExist":{
+			"body":[
+				"                                    ",
+				"      Не найдена папка old-mods     ",
+				"        (можно закрыть окно)        ",
+				"                                    "
+			],
+			"description": "Чтбы исправить это – создайте папку old-mods по пути minecraft/mods/old-mods",
+			"type": "ERROR"
+		},
+		"MinecraftRootFolderDosentExist":{
+			"body":[
+				"                                    ",
+				"     Корневая папка майнкрафта      ",
+				"              не найдена            ",
+				"         (можно закрыть окно)       ",
+				"                                    "
+			],
+			"description": null,
+			"type": "ERROR"
+		}
+	}
+}
