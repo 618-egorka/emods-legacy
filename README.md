@@ -34,12 +34,13 @@
 | [✦ Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)| Оптимизация игры (аналог OptiFine)|
 | [✦ Sodium extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)| Улучшение настроек Sodium|
 | [Iris shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)| Обеспечивает поддержику шейдеров для Sodium|
+| [✦ Ferritecore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)| Оптимизация множества игровых аспектов|
+| [✦ Entityculling](https://www.curseforge.com/minecraft/mc-mods/entityculling)| Оптимизация игровых сущностей|
 | [✦ Сreate](https://www.curseforge.com/minecraft/mc-mods/create-fabric)| Глобальный индустриальный мод добавляющий множество уникальных механик|
 | [✦ Twilight forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)| Глобальный магический мод, добавляющий новое измерение|
 | [✦ Farmers delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric)| Глобальный мод, разнообразит приготовление еды|
 | [✦ Farmers respite](https://www.curseforge.com/minecraft/mc-mods/farmers-respite)| Аддон к farmers-delight, добавляющий приготовление чая, кофе и других напитков |
 | [Falling leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)| Косметический мод, добавляет частицы листвы|
-| [Dash loader](https://www.curseforge.com/minecraft/mc-mods/dashloader)| Оптимизация, кеширует файлы игры, ускоряя запуск в 2 раза |
 | [Lazydfu](https://www.curseforge.com/minecraft/mc-mods/lazydfu)| Оптимизация, также ускоряет запуск игры в 2 раза |
 | [Fastfurnace](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric)| Оптимизация, ускоряет печки за счёт кеширования последнего использованного рецепта|
 | [Emotecraft](https://www.curseforge.com/minecraft/mc-mods/emotecraft)| Добавляет в игру эмоции|
@@ -50,7 +51,6 @@
 | [First person model](https://www.curseforge.com/minecraft/mc-mods/first-person-model)| Улучшенный вид от первого лица|
 | [Presence footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps)| Добавляет звук для хождения по абсолютно каждому блоку|
 | [Skin layers 3d](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)| Делает оверлей слой скина объёмным|
-| [Smooth-swapping](https://www.curseforge.com/minecraft/mc-mods/smooth-swapping)| Добавляет анимации переноса предметов из Minecraft Bedrock|
 | [Sound physics remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)| Улучшает звук путём эмулирования его физики|
 | [Visuality](https://www.curseforge.com/minecraft/mc-mods/visuality)| Добавляет множество небольших частиц, улучшающих взаимодействие с миром|
 
@@ -58,7 +58,12 @@
 Разработка
 ===========
 
-Команда компиляции
+Компиляция
 ```
 npm run build
+```
+
+Режим разработки
+```
+npm run dev
 ```
