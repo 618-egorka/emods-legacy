@@ -6,6 +6,7 @@
   "bin": "installer.js",
   "scripts": {
 		"build": "pkg --compress Gzip .",
+		"dev": "DEV_MODE=true node --inspect installer.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "pkg": {

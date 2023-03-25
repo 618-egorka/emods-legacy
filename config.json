@@ -1,10 +1,20 @@
 {
 	"modNamePrefix": "EMP_",
+	"modIgnorePrefix": "X_",
 	"messages":{
-		"Loading":{
+		"loading":{
 			"body":[
 				"                                    ",
-				"           Установка сборки..       ",
+				"         Установка сборки..         ",
+				"                                    "
+			],
+			"description": null,
+			"type": "INFO"
+		},
+		"devMode":{
+			"body":[
+				"                                    ",
+				"    Запуск в режиме разработчика    ",
 				"                                    "
 			],
 			"description": null,
@@ -45,6 +55,16 @@
 				"                                    ",
 				"     Корневая папка майнкрафта      ",
 				"              не найдена            ",
+				"         (можно закрыть окно)       ",
+				"                                    "
+			],
+			"description": null,
+			"type": "ERROR"
+		},
+		"unknownError":{
+			"body":[
+				"                                    ",
+				"          Неизвестная ошибка        ",
 				"         (можно закрыть окно)       ",
 				"                                    "
 			],
