@@ -3,8 +3,8 @@
 		"packageVersion": "1.0.0",
 		"modsCoreVerison": "Fabric 1.19.2",
 
-		"about": "Этот файл, автоматически создаваемый программой установки сборки модов от Егорки. В нём хранится информация об установленных модах, не удаляйте его",
-		"git": "https://github.com/618-egorka/egorka-mods",
+		"about": "Это файл, автоматически создаваемый программой установки сборки модов от Егорки. В нём хранится информация об установленных модах, не удаляйте его",
+		"git": "https://github.com/618-egorka/eMods",
 		"author": "t.me/ef_618"
 	},
 	"mods": [
@@ -40,6 +40,14 @@
 			"name": "EMP_Irisshaders--1-0-0.jar",
 			"link": "https://www.curseforge.com/minecraft/mc-mods/irisshaders"
 		},
+				{
+			"name": "EMP_Entityculling--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/entityculling",
+		},
+		{
+			"name": "EMP_Ferritecore--1-0-0.jar",
+			"link": "https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric"	
+		},
 		{
 			"name": "EMP_Create--1-0-0.jar",
 			"link": "https://www.curseforge.com/minecraft/mc-mods/create-fabric"
@@ -59,10 +67,6 @@
 		{
 			"name": "EMP_Falling_leaves--1-0-0.jar",
 			"link": "https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric"
-		},
-		{
-			"name": "EMP_Dashloade--1-0-0.jar",
-			"link": "https://www.curseforge.com/minecraft/mc-mods/dashloader"
 		},
 		{
 			"name": "EMP_Lazydfu--1-0-0.jar",
@@ -103,10 +107,6 @@
 		{
 			"name": "EMP_Skin_layers_3d--1-0-0.jar",
 			"link": "https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d"
-		},
-		{
-			"name": "EMP_Smooth_swapping--1-0-0.jar",
-			"link": "(https://www.curseforge.com/minecraft/mc-mods/smooth-swapping"
 		},
 		{
 			"name": "EMP_Sound_physics_remastered--1-0-0.jar",
