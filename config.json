@@ -37,7 +37,7 @@
 				"         (можно закрыть окно)       ",
 				"                                    "
 			],
-			"description": "Чтбы исправить это – создайте папку mods в корневой папке minecraft",
+			"description": "Чтбы исправить это – создай папку mods в корневой папке minecraft",
 			"type": "ERROR"
 		},
 		"minecraftOldModsFolderDosentExist":{
@@ -47,15 +47,15 @@
 				"        (можно закрыть окно)        ",
 				"                                    "
 			],
-			"description": "Чтбы исправить это – создайте папку old-mods по пути minecraft/mods/old-mods",
+			"description": "Чтбы исправить это – создай папку old-mods по пути minecraft/mods/old-mods",
 			"type": "ERROR"
 		},
 		"MinecraftRootFolderDosentExist":{
 			"body":[
 				"                                    ",
 				"     Корневая папка майнкрафта      ",
-				"              не найдена            ",
-				"         (можно закрыть окно)       ",
+				"             не найдена             ",
+				"        (можно закрыть окно)        ",
 				"                                    "
 			],
 			"description": null,
